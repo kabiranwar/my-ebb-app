@@ -90,7 +90,7 @@ welcome = """
   }
 
   h1 {
-    font-size: 500%;
+    font-size: 1000%;
     font-weight: normal;
     margin-bottom: 0em;
   }
@@ -110,7 +110,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations. Khushite Thelai Ghorte, Awesome!!</h1>
+    <h1>Congratulations. Khushite Thelai Ghorte, Awesome!! I must practise</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
